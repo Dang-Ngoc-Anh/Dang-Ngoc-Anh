@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm DANG NGOC ANH</h1>
 <h3 align="center">anhdev</h3>
 
-#- 🌱 I’m currently learning **Aws, microservice**
-
 - 📫 How to reach me **dang.anh210103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
